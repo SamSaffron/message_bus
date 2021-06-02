@@ -8,6 +8,8 @@
 
 28-04-2021
 
+  - FEATURE: Permit tracing middleware behaviour via `MessageBus#on_middleware_attributes`.
+
 - Version 3.3.5
 
   - PERF: Optimised CORS preflight handling
