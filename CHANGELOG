@@ -15,6 +15,9 @@
   - FEATURE: Removed trailing cache buster from message bus polls
   - PERF: Improved delay poll timeout for cases where a tab moves in and out of the background
 
+  - FEATURE: Permit tracing middleware performance via `MessageBus.tracer` and
+    `MessageBus#on_middleware_attributes`.
+
 02-10-2020
 
 - Version 3.3.4
